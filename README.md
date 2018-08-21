@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  React Native Elements
+  React Native Elementss
 </h3>
 
 <p align="center">
